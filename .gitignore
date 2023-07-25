@@ -1,2 +1,5 @@
 # the data files
 *.csv
+
+# auto saves notebook
+*.ipynb_checkpoints
