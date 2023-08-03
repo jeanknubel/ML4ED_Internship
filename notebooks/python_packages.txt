@@ -296,8 +296,10 @@ sentence-transformers         2.2.2
 sentencepiece                 0.1.97
 service-identity              18.1.0
 setuptools                    65.5.0
+shap                          0.42.1
 sip                           4.19.13
 six                           1.16.0
+slicer                        0.0.7
 smart-open                    5.2.1
 sniffio                       1.2.0
 snowballstemmer               2.2.0
@@ -379,4 +381,3 @@ yarl                          1.8.2
 zict                          2.1.0
 zipp                          3.8.0
 zope.interface                5.4.0
-Note: you may need to restart the kernel to use updated packages.
